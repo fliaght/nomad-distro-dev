@@ -1,6 +1,6 @@
 Start by forking this [main repository](https://github.com/FAIRmat-NFDI/nomad-distro-dev) that will house all your plugins.
 
-# NOMAD Dev Distribution
+# NOMAD Dev Distribution - mof-dev
 
 Benefits
 
